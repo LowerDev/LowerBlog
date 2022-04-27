@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lower-dev-5d8d0": {
+      "hosting": {
+        "lower-dev-blog": [
+          "lower-dev-5d8d0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lower-dev-5d8d0"
+  }
+}
